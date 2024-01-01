@@ -1,0 +1,19 @@
+.portals {
+  height: 10em;
+  margin: 3em;
+}
+
+#header {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-image: url("assets/portal-background.jpeg");
+}
+
+#container {
+  position: fixed;
+  top: 50%;
+  right: 5%;
+}

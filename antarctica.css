@@ -1,0 +1,21 @@
+#antarctica {
+  background-image: url("assets/antarctica.jpeg");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+#antarctica h1, h2 {
+  text-align: center;
+}
+
+.portals {
+  height: 10em;
+  margin: 3em;
+}
+
+#container {
+  position: fixed;
+  top: 50%;
+  right: 5%;
+}

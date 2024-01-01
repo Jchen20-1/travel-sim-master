@@ -1,0 +1,22 @@
+#las-vegas {
+  background-image: url("assets/LA.jpeg");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+#las-vegas h1, h2 {
+  text-align: center;
+  color: white;
+}
+
+.portals {
+  height: 10em;
+  margin: 3em;
+}
+
+#container {
+  position: fixed;
+  top: 50%;
+  right: 5%;
+}
