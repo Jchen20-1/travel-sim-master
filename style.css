@@ -1,6 +1,5 @@
-.portals {
-  height: 10em;
-  margin: 3em;
+body {
+  background-image: url("assets/portal-background.jpeg");
 }
 
 #header {
@@ -8,8 +7,9 @@
   color: white;
 }
 
-body {
-  background-image: url("assets/portal-background.jpeg");
+.portals {
+  height: 10em;
+  margin: 3em;
 }
 
 #container {

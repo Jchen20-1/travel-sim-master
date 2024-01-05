@@ -1,11 +1,11 @@
-#antarctica {
+body {
   background-image: url("assets/antarctica.jpeg");
   background-size: cover;
   width: 100vw;
   height: 100vh;
 }
 
-#antarctica h1, h2 {
+#header {
   text-align: center;
 }
 
